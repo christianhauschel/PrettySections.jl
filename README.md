@@ -1,6 +1,7 @@
 # PrettySections.jl
 
 Julia code:
+
 ```julia
 section("section")
 
@@ -10,6 +11,7 @@ subsubsection("subsubsection")
 ```
 
 Output:
+
 ```bash
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -24,6 +26,6 @@ Output:
 
 ```
 
-## License 
+## License
 
 This code is licensed under MIT.

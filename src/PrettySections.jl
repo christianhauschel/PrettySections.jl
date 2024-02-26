@@ -1,4 +1,4 @@
-module PrettyPrint
+module PrettySections
 
 """
     section(txt)
