@@ -23,3 +23,7 @@ Output:
 ─── subsubsection ───
 
 ```
+
+## License 
+
+This code is licensed under MIT.
