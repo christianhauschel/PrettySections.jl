@@ -1,4 +1,4 @@
-# `PrettyPrint`
+# PrettySections.jl
 
 Julia code:
 ```julia

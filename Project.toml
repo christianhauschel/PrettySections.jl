@@ -1,4 +1,4 @@
-name = "PrettyPrint"
+name = "PrettySections"
 uuid = "f789e72d-e3e8-4092-ac75-c7c4d5ce614b"
 authors = ["Christian <hacs@zhaw.ch>"]
 version = "0.1.0"

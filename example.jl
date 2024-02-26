@@ -1,4 +1,4 @@
-using PrettyPrint
+using PrettySections
 
 section("This is a section")
 
